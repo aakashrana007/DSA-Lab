@@ -1,0 +1,3 @@
+- [lab1.cpp](lab1.cpp) : Write a program to implement Stack using top varying method.
+- [lab2.cpp](lab2.cpp) : Write a program to implement Stack using bottom varying method.
+- [lab5.cpp](lab5.cpp) : Write a program to implement Postfix evaluation using stack.
